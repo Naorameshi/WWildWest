@@ -1,0 +1,27 @@
+body {
+	color:orangered;
+
+	background-color: #554b3d;
+
+	font-size: 22px;
+}
+
+h1 {
+	font-family:rockwell, monospace;
+	border-width: 6px;
+	border-style: solid;
+	border-radius: 22px;
+	padding: .5em 1em;
+	text-align: center;
+	/*margin: 1em;*/
+}
+
+p {
+	font-family:book antiqua;
+	font-size: 1em;
+}
+
+div#container {
+	margin: 0 auto;
+	width: 800px;
+}
